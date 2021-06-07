@@ -1,7 +1,7 @@
 ---
 title: Chi-Heng Lin
 role: ECE PhD student @GeorgiaTech
-avatar_filename: me.png
+avatar_filename: screen-shot-2021-06-02-at-10.37.11-pm.png
 bio: My research interests include neuroscience, deep learning and statistics.
 interests:
   - Machine Learning
