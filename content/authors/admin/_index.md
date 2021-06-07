@@ -2,8 +2,7 @@
 title: Chi-Heng Lin
 role: ECE PhD student @GeorgiaTech
 avatar_filename: me.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include neuroscience, deep learning and statistics.
 interests:
   - Machine Learning
   - Neuroscience
@@ -38,4 +37,4 @@ highlight_name: false
 ---
 I am a fortunate Ph.D. student advised by [Prof. Eva. L. Dyer](https://dyerlab.gatech.edu/people/pi-profile/) in [NerDS Lab](https://dyerlab.gatech.edu/) at Georgia Tech. Before that, I received M.A. from Statistics at Columbia University in 2016 and both M.S. & B.S. from ECE at National Taiwan University (NTU) in 2013 and 2011, respectively.
 
-I am interested in general mathematic solutions to machine learning problems. My past research experiences include **Bayesian Optimization**, **Deep learning theory**, and **Optimal transport**.
+I am interested in general mathematic solutions to machine learning problems, with a focus on neuroscience applications. My research experiences include **Bayesian Optimization**, **Deep learning theory**, and **Optimal transport**.
