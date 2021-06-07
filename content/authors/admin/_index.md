@@ -31,7 +31,7 @@ education:
     - course: MS & BS in EE
       institution: National Taiwan University
       year: 2013
-email: ""
+email: clin354@gatech.edu
 superuser: true
 highlight_name: false
 ---
