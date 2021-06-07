@@ -42,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a fortunate Ph.D. student advised by [Prof. Eva. L. Dyer](https://dyerlab.gatech.edu/people/pi-profile/) in [NerDS Lab](https://dyerlab.gatech.edu/) at Georgia Tech. Before that, I received M.A. from Statistics at Columbia University in 2016 and both M.S. & B.S. from ECE at National Taiwan University (NTU) in 2013 and 2011, respectively.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am interested in general mathematic solutions to machine learning problems. My past research experiences include **Bayesian Optimization**, **Deep learning theory**, and **Optimal transport**.
